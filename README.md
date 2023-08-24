@@ -1,4 +1,5 @@
-# ViWS-Net
-ICCV 2023  
+# Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation
 This is an official repository of Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation  
-(The first work on Video Multi-Adverse-Weather Removal)
+ViWS-Net is the first work on Video Multi-Adverse-Weather Removal
+
+## Code coming soon!
