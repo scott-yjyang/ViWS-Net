@@ -1,10 +1,7 @@
-# [ICCV 2023] Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation
+# [ICCV 2023] ViWS-Net: The first method for video adverse weather removal
 
-This project proposes the first method for **video adverse weather removal** task.
 
-[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.html).
-
-[project website](https://yijun-yang.github.io/viwsnet/index.html).
+[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.html) | [project website](https://yijun-yang.github.io/viwsnet/index.html)
 
 
 ## News
