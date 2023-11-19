@@ -1,4 +1,4 @@
-# [ICCV 2023] ViWS-Net: The first method for video adverse weather removal
+# ViWS-Net: The first method for video adverse weather removal
 
 
 [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.html) | [project website](https://yijun-yang.github.io/viwsnet/index.html)
