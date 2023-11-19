@@ -1,12 +1,11 @@
 # [ICCV 2023] Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation
 
-This project proposes the firt method for video adverse weather removal task.
+This project proposes the first method for **video adverse weather removal** task.
+
 [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.html).
+
 [project website](https://yijun-yang.github.io/viwsnet/index.html).
 
-## A Quick Overview 
-
-<img width="880" height="380" src="https://github.com/scott-yjyang/DiffMIC/blob/main/figs/framework.png">
 
 ## News
 - 23-11-12. This paper has been accepted by ICCV 2023. Code is still quickly updating 🌝.
@@ -32,7 +31,7 @@ KITTI-snow [[dataset](https://drive.google.com/file/d/1_1IsyT5nTvYjrCwNgP4LDOh_r
 
 ### Model
 [Pretrained-weights] (https://drive.google.com/drive/folders/15iZKXFT7apjUSoN2WUMAbb0tvJgyh3YP)
-[Best_Checkpoint]()
+[Best_Checkpoint](https://drive.google.com/file/d/1Jfui4eaDY24CPRsQQqBjlA9bUhE6G76b/view?usp=drive_link)
 
 ### Setup
 
