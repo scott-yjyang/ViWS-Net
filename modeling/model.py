@@ -13,7 +13,7 @@ from timm.models import create_model
 from modeling.backbone import *
 from modeling.decoder import *
 from modeling.transweather import Tdec
-from modeling.wacl import *
+from modeling.wsal import *
 
 
 class RefineNet(nn.Module):
